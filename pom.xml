@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.yal.indbnk</groupId>
   <artifactId>ind</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -88,24 +88,6 @@
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services</artifactId>
       <version>11.4.0</version>
-      <scope>implementation</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>databinding-common</artifactId>
-      <version>4.1.1</version>
-      <scope>implementation</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>databinding-runtime</artifactId>
-      <version>4.1.1</version>
-      <scope>implementation</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>databinding-adapters</artifactId>
-      <version>4.1.1</version>
       <scope>implementation</scope>
     </dependency>
     <dependency>
